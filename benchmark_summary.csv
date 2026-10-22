@@ -1,0 +1,3 @@
+quantization,average_speed,average_time,average_peak_memory
+4-bit NF4,19.297,5.182,1.091
+8-bit,6.127,16.635,1.709
